@@ -37,4 +37,6 @@ int main()
     printf("Sorted array: \n");
     printArray(arr, n);
     return 0;
-}
+} 
+//kamalesh khanna 106117067
+
