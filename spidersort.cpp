@@ -1,4 +1,4 @@
-//kamalesh khanna 106117067
+ //kamalesh khanna 106117067
 #include <stdio.h>
  
 void swap(int *xp, int *yp)
